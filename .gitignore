@@ -1,0 +1,9 @@
+moody-env/
+data/archive/
+data/dataset.csv
+models/*.pkl
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc

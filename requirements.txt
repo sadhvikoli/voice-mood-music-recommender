@@ -1,0 +1,10 @@
+librosa
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+joblib
+jupyter
+ipykernel
