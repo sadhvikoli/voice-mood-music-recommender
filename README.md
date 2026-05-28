@@ -1,3 +1,20 @@
+<p align= "center">
+<img width="600" height="300" src="moody_logo_github.png" />
+</p>
+<div align= "center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" />
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" />
+</a>
+</div>
 # 🎵 Mood-y: Voice-Based Mood Music Recommender
 
 Mood-y is an end-to-end machine learning application that analyzes a user's voice recording, detects the underlying emotion, and recommends songs that match the detected mood.
