@@ -15,6 +15,7 @@
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff" />
 </a>
 </div>
+
 # 🎵 Mood-y: Voice-Based Mood Music Recommender
 
 Mood-y is an end-to-end machine learning application that analyzes a user's voice recording, detects the underlying emotion, and recommends songs that match the detected mood.
